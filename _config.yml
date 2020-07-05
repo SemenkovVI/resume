@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "SemenkovVI Resume Template"
+description: "A resume template for SemenkovVI and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
