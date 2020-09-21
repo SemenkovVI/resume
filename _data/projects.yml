@@ -7,3 +7,10 @@
   duration: 2019 &mdash; Present
   url: "https://github.com/SemenkovVI/Calculator_GloAcademy"
   description: A calculator for calculating the cost of a custom site
+  
+  # FlickrClone
+- project: FlickrClone
+  role: Contributor
+  duration: summer 2020 &mdash; Present
+  url: "https://github.com/SemenkovVI/FlickrClone"
+  description: Clone of the well-known site flickr for storing photos. With authorization using localStorage(you can log in using the username admin password admin) and search by the nickname of the user's albums, viewing photos (you can also log in by admin)
