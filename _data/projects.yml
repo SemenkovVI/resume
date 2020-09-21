@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Calculator
-- project: Calculator
+- project: PriceCalculator
   role: Contributor
   duration: 2019 &mdash; Present
   url: "https://github.com/SemenkovVI/Calculator_GloAcademy"
@@ -14,3 +14,10 @@
   duration: summer 2020 &mdash; Present
   url: "https://github.com/SemenkovVI/FlickrClone"
   description: Clone of the well-known site flickr for storing photos. With authorization using localStorage(you can log in using the username admin password admin) and search by the nickname of the user's albums, viewing photos (you can also log in by admin)
+
+# Calculator
+- project: Calculator
+  role: Contributor
+  duration: summer 2020 &mdash; Present
+  url: "https://github.com/SemenkovVI/tasks/tree/master/calculator"
+  description: A default calculator for making calculations 
