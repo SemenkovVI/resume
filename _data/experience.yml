@@ -1,17 +1,17 @@
 # Jobs
-  - company: Andersen
-  - position: javascript developer (intern)
-  - duration: 
-  - summary: The courses lasted for about 3 months from July to September, I learned native javascript on them
+ - company: Andersen
+   position: javascript developer (intern)
+   duration: 
+   summary: The courses lasted for about 3 months from July to September, I learned native javascript on them
   
-  - company: Netcracker
-  - position: Angular + firebase developer (intern)
-  - duration: 
-  - summary: I am currently taking these courses to learn the Angular framework, use Rxjs, Observable, pipe and so on.
+ - company: Netcracker
+   position: Angular + firebase developer (intern)
+   duration: 
+   summary: I am currently taking these courses to learn the Angular framework, use Rxjs, Observable, pipe and so on.
 doing a kanban board project with firebase database
 
-- company: 
-- position:
-- duration: 
-- summary: I dont'have commercial practice, but I hope it will appear soon.
+ - company: 
+   position:
+   duration: 
+   summary: I dont'have commercial practice, but I hope it will appear soon.
 
