@@ -11,13 +11,27 @@
   # FlickrClone
 - project: FlickrClone
   role: Contributor
-  duration: summer 2020 &mdash; Present
+  duration: summer 2020 &mdash; autumn 2020
   url: "https://github.com/SemenkovVI/FlickrClone"
   description: Clone of the well-known site flickr for storing photos. With authorization using localStorage(you can log in using the username admin password admin) and search by the nickname of the user's albums, viewing photos (you can also log in by admin)
 
 # Calculator
 - project: Calculator
   role: Contributor
-  duration: summer 2020 &mdash; Present
+  duration: summer 2020 &mdash; autumn 2020
   url: "https://github.com/SemenkovVI/tasks/tree/master/calculator"
   description: A default calculator for making calculations 
+  
+# Angular gallery
+- project: Angular gallery
+  role: Contributor
+  duration: November 2020 &mdash; November 2020
+  url: https://github.com/SemenkovVI/Angular-gallery
+  description:  A gallery writing on Angular + firebase
+  
+  # Angular kanban board
+- project: Angular kanban board
+  role: Contributor
+  duration: November 2020 &mdash; Present
+  url: https://kanbanboard-d6b9c.web.app/
+  description:  A kanban board writing on Angular + firebase with authentication and a large number of features
